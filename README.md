@@ -20,13 +20,13 @@ The dataset used is data from web scraping results from property marketplace web
 
 | Variable Name          | Data Information                                                   |
 |------------------------|-------------------------------------------------------------------|
-| city                   | is the name of the city this property is located in               |
-| location               | is the detailed location of the property, including the area and complete address of the property |
-| land_area              | information on the land area of the property in square meters     |
-| building_area          | information on the building area of the property in square meters |
-| bed_rooms              | is the number of bedrooms in the property                         |
-| bathroom_room          | is the number of bathrooms in the property                        |
-| price                  | is information on the price of the property in rupiah             |
+| kota                   | is the name of the city this property is located in               |
+| lokasi               | is the detailed location of the property, including the area and complete address of the property |
+| luas_lahan              | information on the land area of the property in square meters     |
+| luas_banginan          | information on the building area of the property in square meters |
+| kamar_tidur              | is the number of bedrooms in the property                         |
+| kamar_mandi          | is the number of bathrooms in the property                        |
+| harga                  | is information on the price of the property in rupiah             |
 
 
 ### Tools
